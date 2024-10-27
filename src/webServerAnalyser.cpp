@@ -12,7 +12,7 @@
  * @method: parseDate
  * @brief: converts a date time into a vector format
  *         ex. "[29:23:54:18] -> [29] [23] [54] [18]
- * @input - request: the date time to be converted
+ * @input - date: the date time to be converted
  * @return: returns the vector form of the date time, split using the ":" delimiter
  */
 std::vector <int> webServerAnalyser::parseDate( std::string date )

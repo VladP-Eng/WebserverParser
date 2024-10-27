@@ -1,0 +1,12 @@
+141.243.1.172 [29:23:53:25] "GET /Software.html HTTP/1.0" 200 1497
+141.243.1.172 [29:23:53:26] "GET /Software.html HTTP/1.0" 200 1497
+141.243.1.172 [29:23:53:27] "GET /Software.html HTTP/1.0" 200 1497
+141.243.1.172 [29:23:53:28] "GET /Software.html HTTP/1.0" 200 1497
+141.243.1.172 [29:23:53:29] "GET /Software.html HTTP/1.0" 404 1497
+tanuki.twics.com [29:23:53:53] "GET /News.html HTTP/1.0" 200 1014
+wpbfl2-45.gate.net [29:23:54:15] "GET / HTTP/1.0" 200 4889
+wpbfl2-45.gate.net [29:23:54:16] "GET /icons/circle_logo_small.gif HTTP/1.0" 200 2624
+wpbfl2-45.gate.net [29:23:54:18] "GET /icons/circle_logo_small.gif HTTP/1.0" 200 2624
+wpbfl2-45.gate.net [29:23:54:18] "GET /icons/circle_logo_small.gif HTTP/1.0" 200 2624
+140.112.68.165 [29:23:54:19] "GET /logos/us-flag.gif HTTP/1.0" 200 2788
+wpbfl2-45.gate.net [29:23:54:19] "GET /icons/book.gif HTTP/1.0" 200 156

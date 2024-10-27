@@ -19,12 +19,14 @@ $ cmake ..
 $ make
 ```
 
-Note: if you observer errors related to GTEST_LIBRARY / GTEST_INCLUDE_DIR / GTEST_MAIN_LIBRARY
+Note: if you observe errors related to GTEST_LIBRARY / GTEST_INCLUDE_DIR / GTEST_MAIN_LIBRARY
+
 You may need to compile GoogleTest locally: https://stackoverflow.com/questions/24295876/cmake-cannot-find-googletest-required-library-in-ubuntu
 
 ## Usage Instructions
 
 ```
+To run the main webserver parser binary:
 $ ./logParser
 
 Required arguments:

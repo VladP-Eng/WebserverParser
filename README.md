@@ -25,8 +25,8 @@ You may need to compile GoogleTest locally: https://stackoverflow.com/questions/
 
 ## Usage Instructions
 
-```
 To run the main webserver parser binary:
+```
 $ ./logParser
 
 Required arguments:
@@ -48,7 +48,7 @@ Sample usage:
   (Request number of successful resource accesses by URI, ranging between provided date times, using provided log file
 ```
 
-To run tests, execute the test_webServerAnalyser binary:
+To run GoogleTest automated tests, execute the test_webServerAnalyser binary:
 ```
 $ ./test_webServerAnalyser
 [==========] Running 6 tests from 2 test suites.

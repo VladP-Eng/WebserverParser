@@ -14,6 +14,8 @@ sudo apt install build-essential cmake libgtest-dev
 ### Build Instructions
 
 ```
+$ git clone https://github.com/VladP-Eng/WebserverParser.git
+$ cd WebserverParser
 $ mkdir build
 $ cd build
 $ cmake ..

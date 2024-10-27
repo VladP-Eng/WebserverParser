@@ -7,6 +7,7 @@
 - Linux System (Ubuntu 24.04 for ex.)
 - Basic build dependencies:
 ```
+sudo apt-get update
 sudo apt install build-essential cmake libgtest-dev
 ```
 
